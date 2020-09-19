@@ -19,7 +19,8 @@ type nom-fonction (type-1 arg-1,...,type-n arg-n)
 ```
 ## Les Instructions:
 Comme son nom le laisse présager, le bloc d'instructions peut contenir plusieurs instructions (il peut aussi en contenir qu'une unique).<br> 
-Le bloc commence par une accolade ouvrante et se termine par une accolade fermante. L'exemple ci-dessous montre un bloc d'instructions vous demandant de saisir votre nom :<br>
+Le bloc commence par une accolade ouvrante et se termine par une accolade fermante.<br>
+L'exemple ci-dessous montre un bloc d'instructions vous demandant de saisir votre nom :<br>
 
 *ce bloc est constitué de quatre lignes de code.*
 
