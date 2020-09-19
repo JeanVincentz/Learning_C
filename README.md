@@ -46,6 +46,12 @@ Effectivement, cette notion de pile est en fait liée à la notion de threads (a
 - \n->retour à la ligne (= « Entrée ») ;
 - \t->tabulation.
 
+### Exemple de caractères spéciaux:
+
+```c
+printf("Hello, World\n"); //Retour Ligne
+printf("Hello, World\t"); //Tabulation
+```
 
 ## En résumé (À Retenir)
 
