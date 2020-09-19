@@ -20,6 +20,7 @@ type nom-fonction (type-1 arg-1,...,type-n arg-n)
 ## Les Instructions:
 Comme son nom le laisse présager, le bloc d'instructions peut contenir plusieurs instructions (il peut aussi en contenir qu'une unique).<br> 
 Le bloc commence par une accolade ouvrante et se termine par une accolade fermante. L'exemple ci-dessous montre un bloc d'instructions vous demandant de saisir votre nom :<br>
+
 *ce bloc est constitué de quatre lignes de code.*
 
 ### Exemple d'instruction:
@@ -39,6 +40,7 @@ L'état de la pile évolue au cours du temps en fonction des variables de l'on d
 Un autre point est aussi important à savoir : la taille de la pile d'exécution est limitée. Si vous saturez cette pile d'exécution, <b>une erreur FATALE sera déclenchée.</b><br> 
 En réalité, un programme complexe n'a pas qu'une unique pile d'exécution.<br>
 Effectivement, cette notion de pile est en fait liée à la notion de threads (aussi appelé fil d'exécution) :<br>
+
 *il existe donc une pile d'exécution par thread.*
 
 
@@ -65,8 +67,9 @@ printf("Hello, World\t"); //Tabulation
 
 - La fonction <b>main</b>(qui signifie « principale ») est la fonction par laquelle démarre votre programme.<br>
 <br>
-*C'est la seule qui soit obligatoire, aucun programme ne peut être compilé sans elle.
-<br>*
+
+*C'est la seule qui soit obligatoire, aucun programme ne peut être compilé sans elle.*
+<br>
 
 - <b>printf</b> est une fonction toute prête qui permet d'afficher un message à l'écran dans une console.
 
