@@ -2,7 +2,7 @@
 - Apprendre à programmer en C / Learning C
 
 ## Les Fonctions:
-Comme dans la plupart des langages, on peut en C découper un programme en plusieurs fonctions. Une seule de ces fonctions existe obligatoirement ;<br>
+Comme dans la plupart des langages, on peut en C découper un programme en plusieurs fonctions.<br> Une seule de ces fonctions existe obligatoirement ;<br>
 C'est la fonction principale appelée <b>main</b>.<br>
 Cette fonction principale peut, éventuellement, appeler une ou plusieurs fonctions secondaires.<br>
 De même, chaque fonction secondaire peut appeler d'autres fonctions secondaires ou s'appeler elle-même (dans ce dernier cas, on dit que la fonction est <b>récursive</b>).<br>
