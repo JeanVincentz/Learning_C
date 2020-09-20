@@ -157,13 +157,13 @@ On ne peut pas appeler une variable n'importe comment.<br>
 ### Très important à savoir, le langage C fait la différence entre les majuscules et les minuscules. Pour votre culture, sachez qu'on dit que c'est un langage qui « respecte la casse ».
 <br>
 
-## Les Variables : Exemple (Incorrect)
+## Les Variables: (Incorrect)
 ```c
 largeur | LARGEUR | LArgEuR 
 ```
 Sont trois variables différentes en langage C, même si pour nous simple humain, ça a l'air de signifier la même chose !
 
-## Les Variables : Exemple (Correct)
+## Les Variables: (Correct)
 ```c
 nombreDeVies | prenom | nom | numero_de_telephone | numeroDeTelephone
 ```
