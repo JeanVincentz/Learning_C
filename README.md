@@ -161,7 +161,7 @@ On ne peut pas appeler une variable n'importe comment.<br>
 ```c
 largeur | LARGEUR | LArgEuR 
 ```
-Sont trois variables différentes en langage C, même si pour nous simple humain, ça a l'air de signifier la même chose !
+Sont trois variables différentes en langage C, même si pour nous simple humain, ça a l'air de signifier la même chose.
 
 ## Les Variables: (Correct)
 ```c
