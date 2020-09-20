@@ -10,8 +10,8 @@ int main(int argc, char *argv[]){ // Équivalent de int main()
     double sommeArgentRecue = 60; 
     sommeArgentRecue = 60;
 
-    unsigned int nombreDeLecteursEnTrainDeLireUnNomDeVariableUnPeuLong = 19;
-    nombreDeLecteursEnTrainDeLireUnNomDeVariableUnPeuLong = 19;
+    unsigned int nombreDeLecteursEnTrainDeLireUnNomDeVariableUnPeuLong = 65535;
+    nombreDeLecteursEnTrainDeLireUnNomDeVariableUnPeuLong = 65535;
 
     int nombreDeVies = 5;
     nombreDeVies = 5;
