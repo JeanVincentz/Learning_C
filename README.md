@@ -135,3 +135,10 @@ Il faut distinguer deux colonnes.
 - À chaque adresse, on peut stocker une valeur (un nombre) : un ordinateur stocke dans la mémoire vive ces nombres pour pouvoir s'en souvenir par la suite. On ne peut stocker qu'un nombre par adresse.<br>
 
 *La mémoire RAM ne peut stocker que des nombres.*
+
+## Les Variables:
+En langage C, une variable est constituée de deux choses:<br>
+
+- Une valeur: C'est le nombre qu'elle stocke, par exemple 10.<br>
+
+- Un nom: C'est ce qui permet de la reconnaître. En programmant en C, on n'aura pas à retenir l'adresse mémoire mais à la place, on va juste indiquer des noms de variables. C'est le compilateur qui fera la conversion entre le nom et l'adresse.
