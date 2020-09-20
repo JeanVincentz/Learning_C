@@ -143,7 +143,7 @@ En langage C, une variable est constituée de deux choses:<br>
 
 - Un nom: C'est ce qui permet de la reconnaître. En programmant en C, on n'aura pas à retenir l'adresse mémoire mais à la place, on va juste indiquer des noms de variables. C'est le compilateur qui fera la conversion entre le nom et l'adresse.<br>
 
-## Les Variables: Contraintes
+## Les Variables: (Contraintes)
 On ne peut pas appeler une variable n'importe comment.<br>
 
 - Il ne peut y avoir que des minuscules, majuscules et des chiffres (abcABC012).
@@ -167,3 +167,11 @@ Sont trois variables différentes en langage C, même si pour nous simple humain
 ```c
 nombreDeVies | prenom | nom | numero_de_telephone | numeroDeTelephone
 ```
+<br>
+
+## Les Variables: (Types)
+Lorsque l'on créer une variable, on doit lui indiquer son type:(cf photo) <br>
+
+![Alt text](https://github.com/JeanVincentz/screen/blob/master/types.png)
+<br>
+
