@@ -118,10 +118,20 @@ voici les différents types de mémoire existant dans un ordinateur, de la plus 
 - Le disque dur : que vous connaissez sûrement, c'est là qu'on enregistre les fichiers. <br><br>
 
 
-### *Chose très importante : seul le disque dur retient tout le temps les informations qu'il contient. Toutes les autres mémoires (registres, mémoire cache, mémoire vive) sont des mémoires temporaires : lorsque vous éteignez votre ordinateur, ces mémoires se vident !*
+### *Chose très importante : Seul le disque dur retient tout le temps les informations qu'il contient. Toutes les autres mémoires (registres, mémoire cache, mémoire vive) sont des mémoires temporaires : lorsque vous éteignez votre ordinateur, ces mémoires se vident !*
 
 ## Schéma de la mémoire vive:
 fonctionnement de la mémoire vive(cf photo) <br>
 
 ![Alt text](https://github.com/JeanVincentz/screen/blob/master/memories.png)
+<br>
 
+Il faut distinguer deux colonnes.
+
+<b>Adresse</b>: 
+- Une adresse est un nombre qui permet à l'ordinateur de se repérer dans la mémoire vive. On commence à l'adresse 0 (au tout début de la mémoire) et on finit à l'adresse 3 448 765 900 126 et des poussières environs (~).<br>
+
+<b>Valeurs</b>
+- À chaque adresse, on peut stocker une valeur (un nombre) : votre ordinateur stocke dans la mémoire vive ces nombres pour pouvoir s'en souvenir par la suite. On ne peut stocker qu'un nombre par adresse.<br>
+
+*La mémoire RAM ne peut stocker que des nombres.*
