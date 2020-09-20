@@ -170,8 +170,13 @@ nombreDeVies | prenom | nom | numero_de_telephone | numeroDeTelephone
 <br>
 
 ## Les Variables: (Types)
-Lorsque l'on créer une variable, on doit lui indiquer son type:(cf photo) <br>
+Lorsque l'on créer une variable, on doit lui indiquer son type:(cf photo)<br>
 
 ![Alt text](https://github.com/JeanVincentz/screen/blob/master/types.png)
 <br>
 
+signed char | int | long | :<br>
+ - Permet de stocker des nombres entiers: 1, 2, 3, 4 ...<br>
+
+float | double | :<br>
+- Permet de stocker des nombres décimaux: 13.8, 16.911, 78.100 (Nombres flottants).
