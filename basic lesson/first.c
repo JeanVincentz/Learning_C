@@ -3,7 +3,7 @@
 
 
 
-int main (int argc, const char * argv[]){ // Ceci est une fonction (main).
+int main (){ // Ceci est une fonction (main).
     //votre premier code ici
 //Ceci est une instruction de la fonction (demande à afficher le message « Hello world! » à l'écran).
     printf("Hello, World\n");
