@@ -102,3 +102,26 @@ int main()
   return 0;          // Le programme renvoie le nombre 0 puis s'arrête.
 }
 ```
+
+
+## C mémoires
+### Les différents types de mémoire:
+
+voici les différents types de mémoire existant dans un ordinateur, de la plus rapide à la plus lente.<br>
+
+- Les registres : une mémoire ultra-rapide située directement dans le processeur.
+
+- La mémoire cache : elle fait le lien entre les registres et la mémoire vive. 
+
+- La mémoire vive : c'est la mémoire avec laquelle nous allons travailler le plus souvent.
+
+- Le disque dur : que vous connaissez sûrement, c'est là qu'on enregistre les fichiers. <br><br>
+
+
+### *Chose très importante : seul le disque dur retient tout le temps les informations qu'il contient. Toutes les autres mémoires (registres, mémoire cache, mémoire vive) sont des mémoires temporaires : lorsque vous éteignez votre ordinateur, ces mémoires se vident !*
+
+## Schéma de la mémoire vive:
+fonctionnement de la mémoire vive(cf photo) <br>
+
+![Alt text](https://github.com/JeanVincentz/screen/blob/master/memories.png)
+
