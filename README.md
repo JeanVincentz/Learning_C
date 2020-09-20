@@ -131,7 +131,7 @@ Il faut distinguer deux colonnes.
 <b>Adresse</b>: 
 - Une adresse est un nombre qui permet à l'ordinateur de se repérer dans la mémoire vive. On commence à l'adresse 0 (au tout début de la mémoire) et on finit à l'adresse 3 448 765 900 126 et des poussières environs (~).<br>
 
-<b>Valeurs</b>
+<b>Valeurs</b>:
 - À chaque adresse, on peut stocker une valeur (un nombre) : votre ordinateur stocke dans la mémoire vive ces nombres pour pouvoir s'en souvenir par la suite. On ne peut stocker qu'un nombre par adresse.<br>
 
 *La mémoire RAM ne peut stocker que des nombres.*
