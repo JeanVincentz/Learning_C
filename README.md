@@ -180,3 +180,28 @@ signed char | int | long | :<br>
 
 float | double | :<br>
 - Permet de stocker des nombres décimaux: 13.8, 16.911, 78.100 (Nombres flottants).
+<br>
+
+Pour les types entiers: 
+- signed char, int, long
+
+il existe d'autres types dits unsigned (non signés),qui eux ne peuvent stocker que des nombres positifs.<br>
+Pour les utiliser, il suffit d'écrire le mot unsigned devant le type:
+
+## Les Variables: (Types - exemple)
+
+```c
+unsigned char -> 0 à 255
+
+unsigned int -> 0 à 65 535
+
+unsigned long -> 0 à 4 294 967 295
+```
+## En résumé (À Retenir)
+
+- Pour un nombre entier, on utilisera le plus souvent <b>int</b>
+- pour un nombre flottant, on utilisera généralement <b>double</b>
+- <b>char</b> toujours suivie du mot clé <b>signed</b> ou <b>unsigned</b>, 
+
+### La raison en est toute simple : le type peut-être signé ou non signé suivant les machines.<br> Toujours veillez donc à spécifier lequel des deux ont souhaite utiliser suivant le type de valeur que l'ont désire stocker.
+(cf.dossier variable)
